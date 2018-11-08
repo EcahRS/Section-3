@@ -1,0 +1,62 @@
+Chapter 14 BIO200
+
+Domains
+	-Prokaryotes
+		-Bacteria
+		-Archaea
+			-Shares a more recent common ancestor with Eukarya than with bacteria
+Time Scale
+	-Precambrian - 4.6bya to 541mya (most of earth's history)
+		-First life - 3.8bya
+		-Evolution of photosynthesis - 2.45bya
+		-Eukaryotes - 2bya
+		
+	-Paleozoic - 541mya to 250mya
+		-Cambrian explosion - 541mya (rapid evoluton of complex organisms)
+		-Land became colonized, first by plants and fungi, then animals
+		
+	-Mesozoic - 250mya to 65mya (age of dinosaurs)
+		-Dinosaurs dominate land
+		-Mammals evolve
+		-Flowering plants evolve
+		-Dionsaur extinction event at end of period
+		
+	-Cenozoic - 65mya to now (after dinosaur extinction, mammals evolved into empty niches)
+		-Mammals dominate land
+		
+Mass Exctinctions
+	-Large numbers of species/families go extinct
+	-5 major mass extinctions
+	-Cretaceous extinction (some 66mya)
+	
+Cambrian explosion
+	-Rapid evolution of many animal groups
+	-Lasted about 30+ million years
+	-Complex animal bodies evolved, became successful and there was rapid divergence
+Classifications
+	-Kingdom, Phylum, Class, Order, Family, Genus, Species
+	-Homo sapiens
+	-Uppercase lowercase
+	-if typed: italics
+	-written: underlined
+	
+Kingdoms
+	-Within Eukarya
+		-Protists - anything that's not a plant, animal, fungi (to make it simple)
+		-Plants
+		-Fungi
+		-Animals
+	
+Phylogeny
+	-Evolutionary tree
+	-Shows relationships and common ancestors
+Clade
+	-A branch of a phylogeny with an ancestor and all of the its descendants
+	-Are nested within clades
+	
+		
+	
+
+	
+		
+		
